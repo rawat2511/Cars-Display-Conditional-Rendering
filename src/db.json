@@ -1,0 +1,89 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Fortuner",
+      "type": "SUV",
+      "year": 2016,
+      "price": 3050500,
+      "image": "https://images.news18.com/ibnlive/uploads/2020/08/1596712514_2020-toyota-fortuner-trd-limited-edition.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ford Endeavour",
+      "type": "SUV",
+      "year": 2011,
+      "price": 3350500,
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202101/New_Ford_Endeavour_Sport_1200x768.jpeg?5ARL0xZmGywK0vNYgqTGGW_XOVHG_oyk&size=1200:675"
+    },
+    {
+      "id": 3,
+      "name": "Ford Endeavour",
+      "type": "SUV",
+      "year": 2012,
+      "price": 1950500,
+      "image": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/52565/hector-exterior-right-front-three-quarter-3.jpeg?q=85"
+    },
+    {
+      "id": 4,
+      "name": "BMY X5",
+      "type": "SUV",
+      "year": 2018,
+      "price": 7750500,
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http://cms.haymarketindia.net/model/uploads/modelimages/X5ModelImage.jpg&w=730&h=484&q=75&c=1"
+    },
+    {
+      "id": 5,
+      "name": "Maruti Suzuki Alto",
+      "type": "Hatchback",
+      "year": 2010,
+      "price": 750500,
+      "image": "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-profile-shots/alto-800/alto800_blazing_red/alto800_blazing_red_new.ashx"
+    },
+    {
+      "id": 6,
+      "name": "Maruti Suzuki Alto",
+      "type": "Hatchback",
+      "year": 2011,
+      "price": 750500,
+      "image": "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-profile-shots/alto-800/alto800_blazing_red/alto800_blazing_red_new.ashx"
+    },
+    {
+      "id": 7,
+      "name": "Hyndai i20",
+      "type": "Hatchback",
+      "year": 2016,
+      "price": 850500,
+      "image": "https://media.zigcdn.com/media/content/2020/Feb/zw-2020-hyundai-i20-1_560x420.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Maruti Suzuki Swift",
+      "type": "Hatchback",
+      "year": 2012,
+      "price": 1050500,
+      "image": "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-profile-shots/swift-launch-2021/fireredmidnightblack.ashx?rev=6a34a6114cc2495e8d51551626a70b68"
+    },
+    {
+      "id": 9,
+      "name": "Tata Tiago",
+      "type": "Hatchback",
+      "year": 2018,
+      "price": 1650500,
+      "image": "https://ic1.maxabout.us/autos/cars_india//N/2020/12/new-tata-tiago-hatchback.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mercedes-Benz GLC",
+      "type": "SUV",
+      "year": 2014,
+      "price": 8250500,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/43718/glc-exterior-right-front-three-quarter-3.jpeg?q=85"
+    }
+
+  ],
+
+  "orders": [
+    
+  ]
+}
